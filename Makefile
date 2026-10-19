@@ -1,4 +1,4 @@
-GOPROXY=GOPROXY=https://internal-gomod.milvzn.com GONOSUMDB='*' GODEBUG=madvdontneed=1
+GOPROXY=GOPROXY=https://goproxy.cn,direct GONOSUMDB='*' GODEBUG=madvdontneed=1
 
 
 ## mod_tidy: will run go mod tidy
